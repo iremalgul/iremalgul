@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremalgul&" alt="iremalgul" /></p>
 
-![snake gif](https://github.com/iremalgul/iremalgul/blob/output/github-contribution-grid-snake.gif)
